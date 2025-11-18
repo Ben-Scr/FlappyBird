@@ -2,6 +2,7 @@
 * text=auto
 *.shader linguist-vendored
 *.hlsl linguist-vendored
+*.cginc linguist-vendored
 Packages/** linguist-vendored
 Assets/TextMesh Pro/** linguist-vendored
 Assets/**/Shaders/** linguist-vendored
